@@ -79,8 +79,9 @@ function canPay(changeArray, totalDue) {
     }
 }
 
+console.log(canPay([5,15,16],30));
 
-
+// this is to check if git hub is working or not ?
 
 
 
